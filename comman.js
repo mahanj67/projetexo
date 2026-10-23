@@ -19,3 +19,8 @@ console.log("taux_de_TVA:",taux_de_TVA);
 console.log("montant_TTC:",montant_total_TTC);
 console.log("Livraison:",Frais_de_livraison);
 console.log("TOTAL_à_PAYER:",total_à_payer);
+console.log(" ")
+console.log("prix_moyen_par_produit:", prix_moyen_par_produit);
+console.log("Type du nom:", typeof nom);
+console.log("Type du prix:", typeof prix)
+console.log("Type de la quantité:", typeof quantité)
